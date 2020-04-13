@@ -1,5 +1,3 @@
-If you combine your problem statement, executive summary, data dictionary, and conclusions/recommendations, you have an amazing README.md file that quickly aligns your audience to the contents of your project. Don't forget to cite your data sources!
-
 # Problem Statement
 
 In this project, we examine the Ames Housing dataset and use linear regression models to predict the sale price of homes in Ames, Iowa. The dataset has over 70 columns and over 2,000 rows, each of which contains various attributes of a different home in Ames, Iowa. In addition, we participate in a Kaggle competition to compare our success to others'. 
