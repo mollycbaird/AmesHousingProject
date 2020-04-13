@@ -1,0 +1,9 @@
+If I had more time I would: 
+
+- use the columns I deleted to increase accuracy on more expensive homes, not drop as many rows
+
+- do more with regularization
+
+- cut out redundant columns
+
+- scaling???
